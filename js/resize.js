@@ -1,6 +1,6 @@
 // Variables
-const UploadUrl = "https://image-editor-api.vercel.app/upload";
-const ResizeUrl = "https://image-editor-api.vercel.app/resize";
+const UploadUrl = "https://test-nine-phi-73.vercel.app/upload";
+const ResizeUrl = "https://test-nine-phi-73.vercel.app/resize";
 const fileTrigger = document.getElementById('file-select-div');
 const fileInput = document.getElementById('fileInput');
 const mainDiv = document.getElementById('main-div');
